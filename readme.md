@@ -1,3 +1,9 @@
+Gesture Controlled Wrist-Worn Display
+
+File: live demo.mp4
+
+This is the live demo of our device
+
 File: Complete_Gesture_Sensor_Model.slx
 
 Require add-on libarary Simscape for both Matlab and Simulink versions
